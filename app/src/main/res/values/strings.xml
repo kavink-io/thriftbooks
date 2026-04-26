@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ThriftBooks</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_cart">Cart</string>
+    <string name="menu_account">Account</string>
+    <string name="featured_books">Featured Books</string>
+    <string name="best_sellers">Best Sellers</string>
+    <string name="deals_of_the_week">Deals of the Week</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="description">Description</string>
+    <string name="condition_new">New</string>
+    <string name="condition_used_like_new">Used - Like New</string>
+    <string name="search_hint">Search by Title, Author, or ISBN</string>
+    <string name="support_heading"><b>SUPPORT</b></string>
+</resources>
