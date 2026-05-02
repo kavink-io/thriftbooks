@@ -42,7 +42,9 @@ A pixel-perfect native Android replication of the [ThriftBooks](https://www.thri
 
 ## 📸 Screenshots
 
-*(Add your screenshots here later)*
+<img width="198" height="431" alt="Screenshot_20260503_033538" src="https://github.com/user-attachments/assets/5259e937-a409-4aaf-969f-3b46a939dfe3" /># ThriftBooks Mobile App Replication
+
+
 
 ## 📄 License
 This project is for educational purposes as a UI/UX and native application replication exercise.
